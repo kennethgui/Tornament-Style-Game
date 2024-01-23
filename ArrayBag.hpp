@@ -1,17 +1,7 @@
 /*
 Name: Kenneth Guillont
-Email: Kenneth.guillont83@myhunter.cuny.edu
-Professor: Dr. Tiziana Ligorio
-Section: CSCI 23500-01
-
-Algorithmic Adventures: 
-Into the Recursive Realms
-
-Project 3 - The Tavern
 
 Title: ArrayBag.hpp
-
-ArrayBag interface for term project given by professor
 */
 
 #ifndef ARRAY_BAG_
