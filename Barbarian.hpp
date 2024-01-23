@@ -1,14 +1,5 @@
 /*
 Name: Kenneth Guillont
-Email: Kenneth.guillont83@myhunter.cuny.edu
-Professor: Dr. Tiziana Ligorio
-Section: CSCI 23500-01
-
-Algorithmic Adventures: 
-Into the Recursive Realms
-
-Project 4 - The Tainted Stew
-
 Title: Barbarian.hpp
 */
 
